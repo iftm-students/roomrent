@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+*{  padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+/* .personal_details{
+    background-color: white;
+    height: auto;
+    width: auto;
+    margin-top: 10vh;
+    padding: 70px;
+    box-shadow: 1px 1px 5px 5px lightgrey;
+    margin-bottom: 50px;
+} */
+.password_details{
+    background-color: white;
+    height: 60vh;
+    width: auto;
+    margin-top: 10vh;
+    padding: 70px;
+    box-shadow: 1px 1px 5px 5px lightgrey;
+    margin-bottom: 50px;
+}
+
+#background img{
+    height: 70vh;
+    width: 100vw;
+    position: relative;
+}

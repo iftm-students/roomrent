@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#body{
+    background-image: linear-gradient( to left, #33ccff , #ff99cc);
+}
+
+.second_section form{
+    background-color: white;
+    padding: 60px;
+    padding-bottom: 15px;
+    padding-top: 0px;;
+}
+input:focus {
+    outline: none;
+    border: transparent;
+}
+P{
+    font-size: 23px;;
+}
