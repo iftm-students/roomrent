@@ -137,7 +137,7 @@ if (isset($_POST['submit'])) {
                     <script>
                         swal({
                             title: "Sign In",
-                            text: "Wrong Username Or Password!   Try Again :)",
+                            text: "Wrong Username Or Password!  Try Again :)",
                             icon: "error",
                             button: "Ok!"
                             }).then(function() {
